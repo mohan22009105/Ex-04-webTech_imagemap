@@ -38,11 +38,11 @@ Commit the changes using git commands and upload the file to your github account
 </html>
 ```
 # Output:
-![OUTPUT](./dataproject/dataapp/templates/images/Airport1.png)
-![OUTPUT](./dataproject/dataapp/templates/images/Park1.png)
-![OUTPUT](./dataproject/dataapp/templates/images/Temple1.png)
-![OUTPUT](./dataproject/dataapp/templates/images/Thomas1.png)
-![OUTPUT](./dataproject/dataapp/templates/images/Vetri1.png)
+![OUTPUT](./Images/Airport1.png)
+![OUTPUT](./Images/Park1.png)
+![OUTPUT](./Images/Temple1.png)
+![OUTPUT](./Images/Thomas1.png)
+![OUTPUT](./Images/Vetri1.png)
 
 # Result:
 The program is executed Successfully.
